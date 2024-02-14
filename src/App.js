@@ -15,7 +15,7 @@ function App() {
       </div>
     </div>
     <div id="message">
-      <h2>Happy Valentines Day, Love You</h2>
+      <h2>Happy Valentines Day<br/> Love You, Zai🐇❤</h2>
     </div>
     <div class="heart" id="heart2">
       <div id="half1">
